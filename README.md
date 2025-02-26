@@ -17,7 +17,7 @@ pip install opencv-python numpy pillow tkinter
 **How to Use**
 
 1. **Clone the Repository**
-   git clone https://github.com/Prasad-hack/My_project-.git
+   git clone https://github.com/Prasad-hack/SECURE-DATA-HIDING-IN-IMAGES-USING-STEGANOGRAPHY.git
    cd steganography-project
 
 2. **Run the Application**
